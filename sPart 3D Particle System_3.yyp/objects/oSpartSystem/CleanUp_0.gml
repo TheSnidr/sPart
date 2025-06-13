@@ -1,0 +1,2 @@
+/// @description
+spart_clear();

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"spart_debug_vbuffers",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"spart_debug_vbuffers",
+  "parent":{
+    "name":"sPart",
+    "path":"folders/sPart/sPart.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

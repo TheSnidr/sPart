@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"spart_type",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"spart_type",
+  "parent":{
+    "name":"sPart",
+    "path":"folders/sPart/sPart.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

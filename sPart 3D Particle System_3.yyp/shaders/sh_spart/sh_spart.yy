@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"sh_spart",
+  "name":"sh_spart",
+  "parent":{
+    "name":"Shaders",
+    "path":"folders/sPart/Shaders.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}
