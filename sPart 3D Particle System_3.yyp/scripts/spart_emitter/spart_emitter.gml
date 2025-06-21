@@ -187,7 +187,10 @@ function spart_emitter(_partSystem) constructor
 		endM = M;
 		shape = _shape;
 		distribution = _distribution;
-		activate();
+		if (partSystem.time < timeOfDeath)
+		{
+			activate();
+		}
 	}
 	
 	/// @func mature()

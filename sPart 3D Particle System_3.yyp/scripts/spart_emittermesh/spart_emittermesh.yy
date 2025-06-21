@@ -6,7 +6,7 @@
   "name":"spart_emittermesh",
   "parent":{
     "name":"WIP",
-    "path":"folders/sPart/WIP.yy",
+    "path":"folders/WIP.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

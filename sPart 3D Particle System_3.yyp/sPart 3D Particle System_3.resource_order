@@ -3,7 +3,7 @@
     {"name":"Notes","order":1,"path":"folders/sPart/Notes.yy",},
     {"name":"Shaders","order":3,"path":"folders/sPart/Shaders.yy",},
     {"name":"sPart","order":5,"path":"folders/sPart/sPart.yy",},
-    {"name":"WIP","order":4,"path":"folders/sPart/WIP.yy",},
+    {"name":"WIP","order":10,"path":"folders/WIP.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"sPart Documentation","order":1,"path":"notes/sPart Documentation/sPart Documentation.yy",},

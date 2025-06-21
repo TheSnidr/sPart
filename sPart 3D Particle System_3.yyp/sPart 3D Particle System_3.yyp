@@ -25,7 +25,7 @@
     {"$GMFolder":"","%Name":"Notes","folderPath":"folders/sPart/Notes.yy","name":"Notes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Shaders","folderPath":"folders/sPart/Shaders.yy","name":"Shaders","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"sPart","folderPath":"folders/sPart/sPart.yy","name":"sPart","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"WIP","folderPath":"folders/sPart/WIP.yy","name":"WIP","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"WIP","folderPath":"folders/WIP.yy","name":"WIP","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[
